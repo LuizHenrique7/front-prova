@@ -1,0 +1,102 @@
+
+.content{
+    background-color: #ffffff;
+
+    font-family: arial;
+}
+
+.form-cadastro{
+    margin-left: 30vh;
+    width: 50vh;
+    margin-top: 4vh;
+}
+
+.form_default input[type="text"], input[type="date"], input[type="number"], input[type="radio"]{
+    
+    border-radius: 1vh;
+    
+}
+
+.form_default input:focus{
+    
+    background-color: #ffffff;
+
+}
+.form-control {
+    box-shadow: none !important;
+}
+
+
+.div-botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1vh;
+    
+
+ }
+
+.botao-cadastrar{
+    background-color: #3d096e;
+    border-radius: 1vh;
+    
+   
+    
+}
+
+.table-pessoa {
+    width: 90% !important;
+    margin-left: 5% !important;
+    border-radius: 1vh;
+}
+
+.pessoa-tr th {
+    background-color: #540f94 !important;
+    color: #ffffff;
+    
+    
+    
+}
+
+.pessoa-tr td {
+    background-color: white !important;
+   
+}
+
+.home {
+    text-decoration: none;
+    color: #3d096e;
+    font-family: arial;
+    
+}
+
+.logout{
+    margin: 3vh;
+}
+
+.acoes-td {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.display-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+  
+.display-none {
+    display: none;
+}
+
+.cadastro{
+    margin: 0.5vh;
+}
+
+.botoes{
+    margin: 0.3vh;
+}
+

@@ -1,0 +1,78 @@
+
+
+body {
+    margin: 0;
+    height: 100%;
+    font-weight: 500;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: arial;
+    margin-top: 1vh;
+}
+
+
+.login form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #d69bf8;
+    padding: 8vh;
+    border-radius: 3vh;
+}
+
+
+h1{
+    color: #000000;
+    font-family: arial;
+    
+}
+
+.login form div{
+    margin-top: 5vh;
+}
+
+
+.login form div input {
+    padding: 0.3vh 1vh;
+    outline: none;
+    border-radius: 1vh;
+    border-style: solid;
+    margin: 1vh;
+    font-size: 2vh;
+}
+
+
+
+
+.botao-login{
+    background-color: #3d096e;
+    border-radius: 1vh ;
+    padding: 1vh;
+    color: #E4F1F6;
+    font-size: 2vh;
+    
+}
+
+.form-login{
+    font-family: arial;
+    font-size: 2.5vh;
+    
+}
+
+input::placeholder {
+    opacity: .4;
+    color: #656768;
+}
+
+
+.img{
+    height: 25vh;
+    border-radius: 1vh;
+    margin: 2vh;
+}

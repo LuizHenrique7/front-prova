@@ -1,0 +1,24 @@
+
+
+.presencas{
+    background-color: #d69bf8;
+    width: 70vh;
+    margin-left: 2vh;
+    padding: 2vh;
+    border-radius: 1vh;
+    
+
+    
+}
+
+.home{
+    margin: 3vh;
+    font-size: 3vh;
+    font-family: Arial;
+}
+
+.logout1{
+    margin-left: 3vh;
+    margin-block-end: 3vh;
+
+}
